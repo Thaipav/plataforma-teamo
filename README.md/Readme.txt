@@ -1,0 +1,3 @@
+# Plataforma TEAmo
+
+Projeto iniciado.
